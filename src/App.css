@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.chart {
+  width: 80%;
+  margin: auto;
+}
+.chart select {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(243, 140, 14);
+  color: white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
